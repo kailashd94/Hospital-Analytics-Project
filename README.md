@@ -2,7 +2,8 @@
 
 **Technology used** 
 
-**Excel**:Used for creating interactive dashboard and intial data preprocessing ,calculation and creating Quick summaries Dash
+**Excel**:Used for creating interactive dashboard and intial data preprocessing ,calculation and creating Quick summaries.
+
 **SQL**: employed to calculate specific KPIs and perform data transformation on raw datasets.
 
 
