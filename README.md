@@ -1,6 +1,7 @@
 **Hospital-Analytics Project**
 
 **Technology used** 
+
 **Excel**:Used for creating interactive dashboard and intial data preprocessing ,calculation and creating Quick summaries Dash
 **SQL**: employed to calculate specific KPIs and perform data transformation on raw datasets.
 
